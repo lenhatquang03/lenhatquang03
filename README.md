@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="lenhatquang0312@gmail.com">
+  <a href="mailto:lenhatquang0312@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/lenhatquang0312" target="_blank">
@@ -20,3 +20,23 @@
 </div>
 
 <hr>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/Joblib-005C9C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Scrapy-9A1E23?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white">
+</p>
+
+
