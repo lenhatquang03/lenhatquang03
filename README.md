@@ -45,9 +45,9 @@
 <br>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=lenhatquang03&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Quang's GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=lenhatquang03&theme=transparent&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Quang's Most Used Languages" />
-  <img height="200" src="https://github-readme-streak-stats-inky-three.vercel.app?user=lenhatquang03&theme=transparent" alt="Quang's Streaks" />
+  <img height="200" src="https://github-readme-stats-psi-two-89.vercel.app/api?username=lenhatquang03&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+  <img height="200" src="https://github-readme-stats-psi-two-89.vercel.app/api/top-langs?username=lenhatquang03&theme=transparent&hide=css,dockerfile,shell,php,javascript,procfile,html&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
+  <img height="200" src="https://github-readme-streak-stats-theta-sage-52.vercel.app?user=lenhatquang03&theme=transparent" alt="Streaks" />
 </div>
 
 <hr>
